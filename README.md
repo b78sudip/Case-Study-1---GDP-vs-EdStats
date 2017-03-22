@@ -19,22 +19,27 @@ Education file has 31 fields that covers information on Countries with their cod
 
 In this study an attempt was made to answer the questions below:
 
-1. Merge the data based on the country shortcode. How many of the IDs match? 
-2. Sort the data frame in ascending order by GDP (so United States is last). What is the 13th country in the resulting data frame? 
-3. What are the average GDP rankings for the "High income: OECD" and "High income: nonOECD" groups? 
-4. Show the distribution of GDP value for all the countries and color plots by income group.  Use ggplot2 to create your plot.  
-5. Provide summary statistics of GDP by income groups. 
-6. Cut the GDP ranking into 5 separate quantile groups. Make a table versus Income.Group. How many countries are Lower middle income but among the 38 nations with highest GDP?
+        1. Merge the data based on the country shortcode. How many of the IDs match? 
+        2. Sort the data frame in ascending order by GDP (so United States is last). What is the 13th country in the resulting data      frame? 
+        3. What are the average GDP rankings for the "High income: OECD" and "High income: nonOECD" groups? 
+        4. Show the distribution of GDP value for all the countries and color plots by income group.  Use ggplot2 to create your plot.  
+        5. Provide summary statistics of GDP by income groups. 
+        6. Cut the GDP ranking into 5 separate quantile groups. Make a table versus Income.Group. How many countries are Lower middle income but among the 38 nations with highest GDP?
 
 Directories & File Locations:
 -----------------------------
 
 The root directory contains 3 sub-directories:
         
-        Data (Directory): 	This directory contains data files
-        R (Directory):      This directory contains R scripts.
-        Charts & Graphs:    This directory contains the graphs or charts produced in this project.
+        Data (Directory):       This directory contains data files
+        R (Directory):          This directory contains R scripts.
+        Charts & Graphs:        This directory contains the graphs or charts produced in this project.
         
 Also root directory contains the following files:
         
+        Readme File:            This file describes the project details and gives the structure of directories and file locations.
+        Make File:              This is the make file that calls for different R scripts sequentially.
+        .rmd File:              This file contains the script for R-Markdown.
+        .md File:               This shows the output of R-Markdown.
+        .html File:             This is the HTML code for R-Markdown.
         
