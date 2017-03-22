@@ -26,3 +26,15 @@ In this study an attempt was made to answer the questions below:
 5. Provide summary statistics of GDP by income groups. 
 6. Cut the GDP ranking into 5 separate quantile groups. Make a table versus Income.Group. How many countries are Lower middle income but among the 38 nations with highest GDP?
 
+Directories & File Locations:
+-----------------------------
+
+The root directory contains 3 sub-directories:
+        
+        Data (Directory): 	This directory contains data files
+        R (Directory):      This directory contains R scripts.
+        Charts & Graphs:    This directory contains the graphs or charts produced in this project.
+        
+Also root directory contains the following files:
+        
+        
