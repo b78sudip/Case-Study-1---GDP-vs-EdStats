@@ -1,18 +1,23 @@
 # Case-Study-1---GDP-vs-EdStats
+-------------------------------
+Developed by Sudip Bhattacharyya
+March 23, 2017
+
+
 This is a repository for case study based on World Bank data - Assignment (Unit 08)
 
 The objective of this study is to analyze data on Gross Domestic Product (GDP) and Educational Statistics for 190 countries across the globe. 
 We have two raw data files for this study and data sources are as follows:
 
-GDP Data: https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv
+        GDP Data: https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv
 
-Education Data: https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv
+        Education Data: https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv
 
 The alternative sources for the data are respectively
 
-http://data.worldbank.org/data-catalog/GDP-ranking-table
+        http://data.worldbank.org/data-catalog/GDP-ranking-table
 
-http://data.worldbank.org/data-catalog/ed-stats
+        http://data.worldbank.org/data-catalog/ed-stats
 
 GDP file has 4 fields that provides information on Countries with respective country codes, size of the Economy (in million US dollars) and rank of the countries according to their economy size.
 Education file has 31 fields that covers information on Countries with their codes, Income group, currency unit, latest population etc.
