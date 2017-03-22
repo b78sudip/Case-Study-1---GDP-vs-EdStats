@@ -20,7 +20,7 @@ Education file has 31 fields that covers information on Countries with their cod
 In this study an attempt was made to answer the questions below:
 
         1. Merge the data based on the country shortcode. How many of the IDs match? 
-        2. Sort the data frame in ascending order by GDP (so United States is last). What is the 13th country in the resulting data      frame? 
+        2. Sort the data frame in ascending order by GDP (so United States is last). What is the 13th country in the resulting data frame?
         3. What are the average GDP rankings for the "High income: OECD" and "High income: nonOECD" groups? 
         4. Show the distribution of GDP value for all the countries and color plots by income group.  Use ggplot2 to create your plot.  
         5. Provide summary statistics of GDP by income groups. 
