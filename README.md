@@ -3,7 +3,6 @@ Developed by Sudip Bhattacharyya,
 March 23, 2017
 --------------------------------
 
-This is a repository for case study based on World Bank data - Assignment (Unit 08)
 
 The objective of this study is to analyze data on Gross Domestic Product (GDP) and Educational Statistics for 190 countries across the globe. 
 We have two raw data files for this study and data sources are as follows:
