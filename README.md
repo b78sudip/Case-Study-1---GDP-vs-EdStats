@@ -1,8 +1,7 @@
 # Case-Study-1---GDP-vs-EdStats
--------------------------------
 Developed by Sudip Bhattacharyya
 March 23, 2017
-
+--------------------------------
 
 This is a repository for case study based on World Bank data - Assignment (Unit 08)
 
