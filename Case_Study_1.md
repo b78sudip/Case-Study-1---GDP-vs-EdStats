@@ -211,13 +211,14 @@ data.forq4 <- arrange(data.forq4, GDP)
 ggplot(data.forq4, aes(x=Income.Group , y=GDP, fill=Income.Group)) + geom_boxplot() + ggtitle("GDP vs Income Group (Regular Scale)")
 ```
 
-![](Case_Study_1_files/figure-html/unnamed-chunk-7-1.png)<!-- -->
+![](https://github.com/b78sudip/Case-Study-1---GDP-vs-EdStats/blob/master/Charts%20-%20Graphs/GDP%20vs%20Income%20Group%20(Regular%20Scale).jpg
+)<!-- -->
 
 ```r
 ggplot(data.forq4, aes(x=Income.Group , y=GDP, fill=Income.Group)) + geom_boxplot() + scale_y_log10() + ggtitle("GDP vs Income Group (Logarithmic Scale with base 10)")
 ```
 
-![](Case_Study_1_files/figure-html/unnamed-chunk-7-2.png)<!-- -->
+![](https://github.com/b78sudip/Case-Study-1---GDP-vs-EdStats/blob/master/Charts%20-%20Graphs/GDP%20vs%20Income%20Group%20(Regular%20Scale).jpg)<!-- -->
 
 ### Box plots were selected for graphical representation of GDP distribution for different Income groups. In the first graph GDP for all countries were plotted against Income groups. 
 
