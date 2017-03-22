@@ -1,5 +1,5 @@
 # Case-Study-1---GDP-vs-EdStats
-Developed by Sudip Bhattacharyya
+Developed by Sudip Bhattacharyya,
 March 23, 2017
 --------------------------------
 
