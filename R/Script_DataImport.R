@@ -18,10 +18,10 @@ setwd("C:/Users/Sudip/Documents/SMU - MSDS/Coursework/Sem1/6306 - Doing Data Sci
 library(XML)
 
 site1 <- "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv"
-download.file(site1,destfile = "./RawDataGDP.csv")
+download.file(site1,destfile = "./Data/RawDataGDP.csv")
 
 site2 <- "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv"
-download.file(site2,destfile = "./RawDataEDSTATS.csv")
+download.file(site2,destfile = "./Data/RawDataEDSTATS.csv")
 
-data.GDP <- read.csv("RawDataGDP.csv", skip=5, header=F)
-data.EDU <- read.csv("RawDataEDSTATS.csv", header=T)
+data.GDP <- read.csv("./Data/RawDataGDP.csv", skip=5, header=F)
+data.EDU <- read.csv("./Data/RawDataEDSTATS.csv", header=T)
