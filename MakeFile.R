@@ -17,12 +17,12 @@ setwd("C:/Users/Sudip/Documents/SMU - MSDS/Coursework/Sem1/6306 - Doing Data Sci
 
 ## Import Raw data files
 
-source("Script_DataImport.R")
+source("./R/Script_DataImport.R")
 
 ## Data Cleaning & Merge clean files
 
-source("Script_DataCleaning.R")
+source("./R/Script_DataCleaning.R")
 
 ## Data Analysis
 
-source("Script_DataAnalysis.R")
+source("./R/Script_DataAnalysis.R")
